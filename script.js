@@ -8,3 +8,6 @@ function showRegister() {
 function showContacto() {
     window.location.href = "./Registro/index.html";
 }
+function showComments() {
+    window.location.href = "./Registro/index.html";
+}
