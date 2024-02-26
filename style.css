@@ -4,3 +4,9 @@
     height: 45px;
     background-color: cadetblue;
 }
+.btn-register {
+    color: white;
+    width: 200px;
+    height: 45px;
+    background-color: gray;
+}
