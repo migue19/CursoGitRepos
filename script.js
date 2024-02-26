@@ -4,3 +4,7 @@ function showLogin() {
 function showRegister() {
     window.location.href = "./Registro/index.html";
 }
+
+function showContacto() {
+    window.location.href = "./Registro/index.html";
+}
